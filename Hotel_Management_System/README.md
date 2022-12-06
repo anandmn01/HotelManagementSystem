@@ -19,7 +19,6 @@ Requirements:-
   
                                          HOTEL MANAGEMENT SYSTEM version 1.0 (Console Only)
 Author : Anand Kumar CSE-B 25587
-GitHub Repo: https://github.com/Rishab260/HotelManagementSystem.git
 
 Description:
 
